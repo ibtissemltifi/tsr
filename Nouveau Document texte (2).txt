@@ -1,0 +1,2 @@
+  by means of the transaction interface, the customer can carry out transactions such as the transfer, the payment
+ by entering his account number,his contact details(name,first name,email,account holder),his amount and his mode of transaction.
